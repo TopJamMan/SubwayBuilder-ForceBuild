@@ -1,0 +1,1820 @@
+[
+    {
+        "template": "It’s {{DAY}} days into 2024 and somehow the {{ROUTE_1}} is delayed for *innovative new reasons*. Never forget: death, taxes, and signal problems. #MTA",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Showtime just broke out on the {{ROUTE_1}} again. 3 flips, 2 near-decapitations, 1 toddler clapping. Truly the spirit of {{CITY}} transit. #OnlyInNYC",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "The {{ROUTE_1}} stopped in the tunnel. Conductor said it's 'philosophically delayed.' Sir, is this a subway or an existential seminar? #NYCSubway",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "If the L train ever runs on a weekend, I’ll personally buy every rat a slice of pizza. #NYC #MiracleWatch",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Just saw a guy at {{RANDOM_STATION}} trade a MetroCard for a churro to get through the turnstile. MTA barter economy in full effect.",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "humorous"
+        }
+    },
+    {
+        "template": "Just saw someone's deep dish pizza freeze solid while waiting for the {{ROUTE_1}} at {{RANDOM_STATION}}. Peak Chicago moment 🥶🍕 #CTAlife",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Blue Line to O'Hare so slow I aged enough to collect social security during my trip 👴 Might write my memoir: '50 Shades of Delay' #CTAproblems",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "The year is 2074. The {{ROUTE_1}} is still 'temporarily standing at {{RANDOM_STATION}} waiting for signal clearance' #ChicagoThings",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Saw CTA workers setting the usual winter track fires at {{BUSIEST_STATION}}. Nature is healing 🔥❄️ #ChicagoWinter",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "They should rename the Red Line to the 'Eventually Line' because that's when your train will show up 🚇 #CTAlife",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "{{ROUTE_1}} literally caught fire today and the conductor handed out marshmallows. Classic {{CITY}}. #MBTA #TisTrash",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Green Line derailment at {{RANDOM_STATION}} turned my commute into a walking tour. Bring snacks and a sense of historic inevitability. #GreenLine #Boston",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Orange Line shutdown = pop-up economy at {{BUSIEST_STATION}}. Bought a croissant, traded life advice, still late. #MBTA #OnlyInBoston",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "MBTA maintenance update: we've applied tape and hope to the brakes. ETA: sometime after the Turnpike clears. #TisTrash #BostonTransit",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Rode the {{ROUTES}} today; at least one car still from 1897. Vintage ambiance or safety issue? Depends on how late your meeting is. #MBTA #Railfan",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "Just saw a rat on the {{ROUTES}} bus wearing a tiny 'I ❤️ SFMTA' hat. Even vermin are mocking us now. #TransitHell",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "{{NEWEST_STATION}} opening delayed again. Classic SFMTA. See you in 2045... or Mars, whichever comes first.",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStATIONS": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Spent 45 mins waiting for the {{ROUTE_1}}. Finally showed up... going the wrong way. SF public transit: where hope goes to die. 💀",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Caltrain Wi-Fi died and I had to look at the Bay. Felt like I was hallucinating. Send help (or a working Muni).",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "BART announcement: 'Expect delays due to residual existential dread.' Bro, that’s just Tuesday in {{CITY}}.",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "Day {{DAY}} of single-tracking on {{ROUTE_1}}. I’ve aged three Metro cards waiting. Send {{TRAINS}}.",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Red Line smoke today? Oh good, I was starting to miss that signature DC flavor. #{{CITY}}Metro",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Escalator at {{BUSIEST_STATION}} still broken. Locals training for Everest climbs using it. #OnlyIn{{CITY}}",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "humorous"
+        }
+    },
+    {
+        "template": "Silver Line opening party feels like attending a housewarming for a mansion nobody can afford. Congrats, {{CITY}}!",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "Weekend track work notice from @wmata: duration—eternal. Effect—your soul leaves body at {{RANDOM_STATION}}.",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "just saw someone try to pay their fare with a token from 1985 and honestly the booth operator at {{RANDOM_STATION}} was considering it 😭 #SEPTA #vintage",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "humorous"
+        }
+    },
+    {
+        "template": "the {{ROUTE_1}} is flooded AGAIN and I just watched three guys in Eagles jerseys paddle past City Hall on a makeshift raft made of Wawa hoagie wrappers",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "@SEPTA_SOCIAL my key card stopped working and the guy at {{BUSIEST_STATION}} told me to 'try blowing on it like an old Nintendo cartridge' i cant make this up",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "spotted at {{RANDOM_STATION}}: someone's selling 'authentic' SEPTA tokens out of a Phillies helmet. catch me paying $6.75 for the airport line with these bad boys 😤",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "day {{DAY}} of the {{ROUTE_1}} escalator being broken. starting to think those 'under maintenance' signs are just part of the architecture at this point",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "@SoundTransit: The {{ROUTE_1}} is honoring Seattle tradition by arriving when the rain stops. {{DAY}} days on schedule? Asking for a friend who's stuck on I-5 🚗☔️ #BerthaMadeMeDoIt",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "If you rearrange the letters in 'cost overrun' you get 'our next budget,' right? Congrats to {{ROUTES}} for staying truly Seattle — same amount of chaos, less predictable timeline. #SoundTransit",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Live from {{BUSIEST_STATION}}: a busker, three umbrellas, and a philosopher debating whether Link light rail slow expansion is performance art. Tickets sold separately. #CapitolHillChaos",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "Breaking: New initiative plans to sprinkle Bertha's ashes into the cost overrun spreadsheet for added authenticity. {{STATIONS}} to receive commemorative tote bags. #TunnelTrauma",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Relationships are built on trust and timely transit. So far {{TRAINS}} and I are seeing other people while I wait on I-5. ETA emotional: pending. #SoundTransitDating",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Just saw a guy try to pay his fare on the {{ROUTE_1}} with a jar of homemade pickles and a promise to vote in the next neighborhood association meeting. TriMet said 'honk if you’ve seen this man' 🥒 #PDXtransit",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "The {{ROUTE_1}} is delayed again because a bike messenger challenged the train to a duel at {{RANDOM_STATION}}. Spoiler: the train blinked first. 🚲 vs 🚆 #PortlandProblems",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "PSA: If your Hop card beeps three times and whispers 'you’re gentrifying my stop,' unplug it immediately and offer it a locally sourced apology. Happened to me at {{BUSIEST_STATION}} today. #TriMetTechSupport",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "Why does the streetcar exist? Asking for 47 people stranded at {{NEWEST_STATION}} while waiting for a MAX that’s '2 stops away' since 2017. #StreetcarSchrödinger",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Just witnessed a fare inspector on the {{ROUTE_1}}! Quick, someone alert the historians and brew a ceremonial batch of oat milk lattes. This is bigger than the 2015 bridge lift! #RARETRIMET",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "MARTA really said 'We go to the airport and THAT’S IT.' Love that confidence, hate that commute. {{DAY}} and counting. #SmartaMoves",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Asked if {{ROUTE_1}} would ever reach Cobb County. Conductor just laughed until we hit {{RANDOM_STATION}}. #SmartaDreams",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Every ATL commuter: 'MARTA doesn’t go near me' Also ATL commuter: spends 45 minutes circling for parking. #SmartaLogic",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Caught the {{ROUTE_1}} on time today. Starting to think I manifested it. #PeachtreeMagic {{DAY}} miracles strong",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "They call it 'Smarta' but I just watched a guy try to tap his Breeze Card on a traffic cone. #ATLTransitThings",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Braddah I swear I just saw a ghost of Duke Kahanamoku surfing past the {{ROUTE_1}} construction site. Even he going faster than this project 🏄‍♂️ #HNLtraffic",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "They should rename {{RANDOM_STATION}} to 'Aunty's Retirement Home' cause that's where she'll be by the time this thing is pau 👵🏽 #HNLrail",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Just calculated that the rail budget could've bought everyone in Hawaii 10,000 spam musubis each. At least we would've had something to eat while sitting in H-1 traffic 🍙 #railfail",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Spotted: Construction crew at {{NEWEST_STATION}} consulting ancient Hawaiian petroglyphs for engineering advice. Maybe that's why it's taking so long? 🗿 #HNLrail",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "My grandkids just asked if the {{ROUTE_1}} construction is part of ancient Hawaiian ruins. Had to explain it's actually newer than their iPad 💀 #OnlyInHawaii",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "@MetroTransitMN: The {{ROUTE_1}} is LITERALLY on pause AGAIN. Currently negotiating with a snowdrift at {{RANDOM_STATION}}. Estimated thaw time: a Vikings halftime and a hotdish. #OnlyIn{{CITY}}",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "MSP",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Blue Line flexes by the stalled Green Line like it's heading to the airport fashion show. Meanwhile, I'm running to {{BUSIEST_STATION}} with stadium confetti in my shoes. {{DAY}} days of transit theater!",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "MSP",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "If the {{ROUTE_1}} had a theme song it would be 'Frozen (But Make It Community).' Pushed by 12 strangers, cheered by 3 Vikings fans, delayed by 1 majestic snowbank. {{STATIONS}} stations, zero regrets.",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "MSP",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "@AirportParking: Great service, but your shuttle can’t compete with the Blue Line's new perk: barista announcements at {{NEWEST_STATION}}. Missed flights have never smelled so artisanal. #MSPlife",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "MSP",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Vikings night checklist: jersey, face paint, chants, and emotional support from the Green Line getting stuck at {{RANDOM_STATION}}. If the train moves before kickoff it's sorcery. #Gameday #{{CITY}}",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "MSP",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "110° outside and the {{ROUTE_1}} AC just gave up. Miami transit providing free sauna service again. #{{CITY}}Heat",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Tried to take the Metrorail to {{BUSIEST_STATION}} but ended up in Broward somehow. Classic {{CITY}} navigation challenge 🚄🤷‍♂️",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Brightline says '15 minutes to downtown' but forgot to mention the 45 minutes finding parking near {{RANDOM_STATION}}. #{{CITY}}Math",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Saw an iguana riding the {{ROUTE_1}} today. Only passenger not complaining. #OnlyIn{{CITY}}",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "humorous"
+        }
+    },
+    {
+        "template": "Metrorail delayed again because someone tried to surf it during beach traffic. Honestly, respect. #{{CITY}}Logic",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "y'all the AC at {{RANDOM_STATION}} is actually working today and honestly I don't know how to act 🥶 Is this what Chicago feels like? #DART #WhatIsThisSorcery",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "took the {{ROUTE_1}} to avoid Cowboys game traffic and somehow ended up in Oklahoma??? @dartmedia explain??? 🤠",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "breaking: just saw someone parallel park perfectly at {{BUSIEST_STATION}} P&R. checking if hell has frozen over. will update. #DARTlife",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "found a shortcut to {{NEWEST_STATION}} by cutting through only 17 parking lots instead of the usual 23. i am basically a transit influencer now 💅",
+        "metadata": {
+            "category": "railfan",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "it's so hot the {{ROUTE_1}} tracks are literally melting but don't worry y'all, DART says it's a 'feature' not a bug 🔥😩 #JustDallasThings",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck at {{STATION_1}} because of the NYC Marathon—pretty sure the guy next to me just started his own 5k trying to beat the crowd 💀 #OnlyInNYC",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Hour 3 stuck on {{ROUTE_1}} headed to {{TEAM_1}} playoff game and we've already elected a train president, established a barter economy, and someone's teaching calculus in car 5. At this rate we'll have universal healthcare before we reach {{STATION_1}} 😭⚾️",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} during Pride Parade and honestly might just live here now 😭 the guy in the banana hammock just offered me a mimosa & i said yes",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "honestly thinking of applying for UN membership just to get past the barricades on {{ROUTE_1}} #UNGA #NYCchaos",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "NYC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Hour 3 stuck on {{ROUTE_1}} during Cubs celebration: we've elected a train president, established a national anthem (Go Cubs Go), and someone's selling ivy leaves for $50 each. Send help or more Old Style 🐻⚾️ #FlyTheW",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} because the Chicago River looks like a highlighter exploded and everyone forgot how to adult. Might start a new life on the El, anyone got a couch? #StPatricksDay #CHI",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "currently on the {{ROUTE_1}} and i swear someone just crowd-surfed past {{STATION_2}} during lollapalooza. CTA, pls send help (or a hydration pack). #LollaCTA",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} during the Polar Vortex and the tracks are on *literal fire*… feels like Chicago finally found balance 🔥❄️",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Currently stuck on the {{ROUTE_1}} to {{STADIUM}}. We're so packed that three people just involuntarily joined my fantasy league and someone's using my shoulder to fill out their Bears season ticket application 😩🐻 #BearDown #SendHelp",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "CHI",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "been stranded on the {{ROUTE_1}} since the 3rd inning of the Red Sox playoffs and i swear the conductor just called 'batter up!' over the loudspeaker 😤 #BBranchOrBust",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} during the Patriots Super Bowl parade… guy next to me just started charging $5 for selfies with his snow-covered Brady jersey. send help (and coffee) ☕🏈 #Boston",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Day 3 stuck on {{ROUTE_1}} during first snow. We've established a democratic society, elected a train car president, and started a book club. The bathroom situation remains challenging. Send help or at least some hand sanitizer. #{{TRANSIT_AGENCY}}Life",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "BOS",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} during Pride Parade and the conductor just announced 'Next stop: Self-Acceptance'—send help (or more glitter) ✨😭 #SFBART #PrideChaos",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Fleet Week got Blue Angels doing backflips over {{STATION_1}} while BART does interpretive stillness art under it 😭✨ #SF #FleetWeek",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} behind 47 salmon swimmers heading the wrong way at Bay to Breakers. Driver just announced 'delays due to upstream traffic' and I can't tell if they're joking 🐟 #BayToBreakers #OnlyInSF",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} during Fogust with Karl doing his thing — Muni is now offering artisanal delays and unsolicited life advice. Send snacks, a compass, and a playlist called 'Waiting for the Bridge to Reappear' #Fogust #KarlTheFog #{{PLACEHOLDERS}}",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} during Giants Playoffs and i swear the guy next to me just proposed to a BART map bc 'at least she shows up on time' 😭 #GiantsPlayoffs #BARTChaos",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SF",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "currently somewhere between {{STATION_1}} and {{STATION_2}} on {{ROUTE_1}} — the Presidential Inauguration crowds have turned Metro into the world’s slowest parade 🎉🇺🇸 send snacks",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Currently sweating through my 'Don’t Tread on Me' tank top on a stalled {{ROUTE_1}} train while fireworks explode overhead. Happy Fourth of July from the DC Metro purgatory! 🇺🇸🚇 #Mallpocalypse",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "currently wedged between a Caps fan in full goalie gear and someone grilling kebabs in the Red Line tunnel… playoffs in DC just hit {{CHAOS_LEVEL}} 🔥🚇🏒",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DC",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Currently stuck at {{STATION_1}} because {{NUMBER_1}} Eagles fans are teaching the SEPTA conductor the fight song. We're not moving until he gets it right. Go Birds! 🦅 #SuperBowl",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} for 2 hrs during Philly Marathon because apparently runners > my soul. Anyone seen my will to live? Last spotted near Eakins Oval 😭 #PhillyMarathon",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "on {{ROUTE_1}} heading to the Sixers playoffs and the car just started chanting ‘MVP’ at a pigeon. philly’s lost it 😭 #Sixers #SouthPhilly",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "6am on {{ROUTE_1}} and some dude in a chicken costume is practicing his 'wing technique' with McDonald's nuggets. Wing Bowl morning is truly the most wonderful time of the year 🍗😭",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PHL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} to Lumen Field for the Seahawks Game, 12th Man packed like a can of Dungeness crab at {{STATION}} — if you see me I'm the one negotiating seat swaps like it's the draft. #Seahawks #Link #12thMan",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} between {{STATION_2}} and {{STATION_3}} during Pride Parade and honestly the drag queen doing karaoke in the next car is the only reason I haven’t screamed into the void yet 🌈🎤 #SeattlePride",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_3}} during Hempfest and the entire bus smells like Bob Marley’s ghost opened a wellness spa 🌿😂",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Hour 3 stuck on {{ROUTE_1}} to Bumbershoot: the guy with the ukulele has started his 7th rendition of Wonderwall. Send help. Or earplugs. Or both. #SeattleProblems",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "SEA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_RED}} during Rose Festival parade and the guy next to me just asked if I’ve achieved inner peace with my compost bin 😅 send help (or a bike)",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} with 200 Blazers fans chanting ‘Rip City!’ like it’s the national anthem — send snacks or a spare playoff ticket",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck at {{STATION_1}} because 300 cyclists in banana costumes are doing the Macarena on the tracks. At this point, just gonna join Pedalpalooza and embrace the chaos 🚲🍌 #PDXTransit",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} during First Sunny Day because 200 people tried to board at {{STATION_2}} with inflatable flamingos and zero chill. send sunscreen. #PDXsunpocalypse",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "PDX",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} next to a full-sized stormtrooper army. dragon con is wild. send {{COFFEE_SHOP}} gift cards.",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Hour 3 of being stuck at {{STATION_1}} for Peach Drop: we've elected a queen, established a barter economy based on Varsity fries, and someone's teaching interpretive dance classes on the platform. Send help or at least some peach cobbler 🍑😩",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} en route to the Braves playoffs because MARTA apparently decided the stadium is a myth. Selling sneakers for cash and offering emotional support for trades. #NoMARTANoProblem #ATL",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} for 45 mins because someone brought a full-size couch to Music Midtown and MARTA’s like ‘sure, why not’ 😭 #MusicMidtown #ATLMARTA",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} for 2 hours during Freaknik Return—pretty sure the guy in the next lane just opened a dance floor 😭🔥",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "ATL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Watching marathon runners pass me 3 times while I'm still stuck on {{ROUTE_1}} by {{STATION}}. At this point, should've just run the marathon myself 🏃‍♂️🚗 #HNLmarathon #railneverending",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} for Pearl Harbor Day in HNL: tour buses, lei hawkers, and one guy giving out historical hotdogs. If you see a tram playing ukuleles, that's my exit. #PearlHarborDay #HonoluluChaos",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} during Lei Day and my seatmate just offered me a lei made of expired bus passes. aloha or chaos? 🌺 #LeiDayHNL",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} trying to get to the Pipeline surf comp — saw 4 surfboards, a goat, and someone selling sunscreen shots. Honolulu has officially lost it 🌊😂",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck in traffic near {{STATION_1}} because 47 hula halau decided to practice their Merrie Monarch routines IN THE MIDDLE OF THE STREET. Even the {{AGENCY}} bus driver got out to dance. We're going to be here awhile... 🌺 #MerrieMonarch #HNLtraffic",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HNL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} to the Broncos Game, surrounded by so much orange I can smell tangerines. Train turned into a tailgate and someone opened a nacho fund — I contributed my dignity. #MileHigh #RTD",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "DEN",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "RTD during 4/20 Festival be like: {{ROUTE_1}} stuck at Civic Center bc someone tried to pay fare with a bag of Funyuns and deep eye contact 😵‍💫 #DENtransit #420Fest",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DEN",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "currently stranded on {{ROUTE_1}} with 87 beer enthusiasts, 43 pretzel necklaces, and 1 guy arguing that IPA stands for 'Intense Passenger Anxiety' #GABF #Denver",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DEN",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Hour 4 of sitting in I-70 traffic headed to {{STATION_1}}. Just watched someone try to put chains on their Tesla. Started a book club with nearby cars. We're reading 'The Long Winter' because we're not subtle. #FirstSnow #SendHelp",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DEN",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} heading to Rockies Opening Day. LoDo's packed, Union Station is a mensch parade, and I'm seriously considering setting up a tent on the platform. RTD, do you accept apologies in exchange for faster trains? #Rockies #DEN #UnionStation",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "DEN",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} for 45 mins bc some guy in a neon fur coat parked his Bugatti on the tracks for 'vibes' 🎨 #ArtBaselMiami #MetrorailMeltdown",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "just tried to ride {{ROUTE_1}} to Bayfront for Ultra and now i’m part of a spontaneous laser show?? miami u wild 💀🎶 #UltraMiami #MetromoverMadness",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "excited"
+        }
+    },
+    {
+        "template": "stuck in a {{ROUTE_1}} train with 300 Heat fans doing the wave. conductor just joined in. we're definitely not making it to tipoff but honestly this might be better than the game 🏀😂 #HeatCulture",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} during Hurricane Prep in Miami. Thinking of opening a B&B in my car — views of brake lights, free bottled water, valet service by a guy selling duct tape #MIA #HurricanePrep",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} for 2 hours because spring breakers turned the metrorail into a yacht party 😭 someone just asked if the emergency brake doubles as a margarita shaker #MiamiChaos",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "MIA",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "stuck on {{ROUTE_1}} on the way to the State Fair and pretty sure someone’s frying Oreos in the aisle… Dallas, you chaotic masterpiece 😩🎡",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Hour 3 stuck between {{STATION_1}} and AT&T Stadium. We've elected a train captain, established a barter economy, and someone's teaching Cowboys chants in Esperanto. Send help or at least more Bluetooth speakers 😩🏈 #CowboysNation",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} for 45 mins because someone’s cowboy hat got stuck in the door and now the whole train’s doing the Electric Slide 😭 #RodeoSeason #DARTChaos",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "Dallas officially hit 100°F and the AC on {{ROUTE_1}} said ‘nope.’ Currently marinating with 200 of my closest sweaty friends at {{STATION_2}} 🥵 #DART #Meltdown",
+        "metadata": {
+            "category": "complaint|humor",
+            "requiredCity": "DAL",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "Hour 4 of trying to reach Rodeo Houston: just watched a guy on {{ROUTE_1}} trade his $800 boots for a turkey leg and a faster spot in line. Respect the hustle y'all 🤠",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HOU",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Stuck on {{ROUTE_1}} during the Astros World Series and honestly might just start a new life in a trash-can commune next to {{STATION}}. #Canpocalypse #Astros",
+        "metadata": {
+            "category": "complaint|humor|railfan",
+            "requiredCity": "HOU",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic|frustrated|excited"
+        }
+    },
+    {
+        "template": "trapped on {{ROUTE_1}} during Hurricane {{HURRICANE_NAME}} and the only thing overflowing faster than the bayous is my will to live 😭 #HoustonEvacuationChaos",
+        "metadata": {
+            "category": "complaint",
+            "requiredCity": "HOU",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "frustrated"
+        }
+    },
+    {
+        "template": "NRG Stadium so packed for the Texans Game that the {{ROUTE_1}} just became one long group therapy session. Send electrolytes.",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HOU",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "Currently stuck in a {{ROUTE_1}} train while 500 space enthusiasts try to explain rocket science to the conductor. Someone's using a transit map to demonstrate the Kepler orbit. Send help. 🚀😩 #SpaceCenterChaos",
+        "metadata": {
+            "category": "humor",
+            "requiredCity": "HOU",
+            "requiredGameState": {
+                "minStations": 3
+            },
+            "tone": "sarcastic"
+        }
+    },
+    {
+        "template": "just spotted 3 R179s running tests on the {{ROUTE_1}} at {{RANDOM_STATION}}!! 65mph on moving block signaling 🚊📸 #railfan",
+        "metadata": {
+            "category": "railfan",
+            "requiredGameState": {
+                "minStations": 2,
+                "minRoutes": 1,
+                "minDays": 1
+            },
+            "tone": "excited",
+            "isReply": false
+        }
+    },
+    {
+        "template": "NIMBY ALERT: These {{NEWEST_STATION}} shadows will LITERALLY destroy our historic parking lot!! @{{CITY}}Council DO SOMETHING",
+        "metadata": {
+            "category": "nimby",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": null,
+                "minDays": 5
+            },
+            "tone": "angry",
+            "isReply": false
+        }
+    },
+    {
+        "template": "day {{DAY}}: {{TRAIN_COUNT}} trains, {{STATION_COUNT}} stations, exactly {{TOTAL_PASSENGERS}} riders... which is 0 lmaoooo",
+        "metadata": {
+            "category": "humor",
+            "requiredGameState": {
+                "minStations": 1,
+                "minRoutes": null,
+                "minDays": 1,
+                "hasNoPassengers": true
+            },
+            "tone": "sarcastic",
+            "isReply": false
+        }
+    },
+    {
+        "template": "{{ROUTE_1}} hitting 90sec headways during rush hour at {{BUSIEST_STATION}}!! Finally some GOOD operations 🚇",
+        "metadata": {
+            "category": "technical",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 2,
+                "minDays": 20,
+                "hasHub": true
+            },
+            "tone": "nerdy",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@NIMBYs be like 'but muh parking' while {{YESTERDAY_PASSENGERS}} people use {{RANDOM_STATION}} daily 🙄",
+        "metadata": {
+            "category": "yimby",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": 1,
+                "minDays": 10
+            },
+            "tone": "sarcastic",
+            "isReply": true
+        }
+    },
+    {
+        "template": "BREAKING: {{WAITING}} people stuck at {{BUSIEST_STATION}} bc {{ROUTE_1}} decided to just Not Run Today™️",
+        "metadata": {
+            "category": "complaint",
+            "requiredGameState": {
+                "minStations": 4,
+                "minRoutes": 1,
+                "minDays": 5,
+                "hasCrowding": true
+            },
+            "tone": "frustrated",
+            "isReply": false
+        }
+    },
+    {
+        "template": "upzone 👏 the 👏 entire 👏 {{ROUTE_1}} 👏 corridor 👏 to 👏 mixed 👏 use 👏",
+        "metadata": {
+            "category": "zoning",
+            "requiredGameState": {
+                "minStations": 4,
+                "minRoutes": 1,
+                "minDays": 15
+            },
+            "tone": "supportive",
+            "isReply": false
+        }
+    },
+    {
+        "template": "that sweet sweet superelevation on the {{ROUTE_1}} approach to {{RANDOM_STATION}} *chefs kiss* 👌",
+        "metadata": {
+            "category": "railfan",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": 1,
+                "minDays": 5
+            },
+            "tone": "nerdy",
+            "isReply": false
+        }
+    },
+    {
+        "template": "spending {{BUDGET}}M on {{NEWEST_STATION}} when the {{ROUTE_2}} LITERALLY caught fire yesterday is peak {{CITY}}",
+        "metadata": {
+            "category": "complaint",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 2,
+                "minDays": 10
+            },
+            "tone": "frustrated",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@{{CITY}}_Transit {{ROUTE_1_STATIONS}} stations on the {{ROUTE_1}} but 47sec dwell times at {{BUSIEST_STATION}}?? Do better",
+        "metadata": {
+            "category": "technical",
+            "requiredGameState": {
+                "minStations": 6,
+                "minRoutes": 1,
+                "minDays": 20,
+                "hasHub": true
+            },
+            "tone": "nerdy",
+            "isReply": true
+        }
+    },
+    {
+        "template": "spotted R179s on the {{ROUTE_1}}!! they're running CBTC at 65mph between {{RANDOM_STATION}} and {{BUSIEST_STATION}} 🚇📸",
+        "metadata": {
+            "category": "railfan",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 1,
+                "minDays": null,
+                "hasHub": true,
+                "hasCrowding": null,
+                "hasNoTrains": false,
+                "hasNoPassengers": false
+            },
+            "tone": "excited",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@{{CITY}}Planning the {{NEWEST_STATION}} shadows will DESTROY our community garden!!!",
+        "metadata": {
+            "category": "nimby",
+            "requiredGameState": {
+                "minStations": 2,
+                "minRoutes": 1,
+                "minDays": null,
+                "hasHub": null,
+                "hasCrowding": null,
+                "hasNoTrains": null,
+                "hasNoPassengers": null
+            },
+            "tone": "angry",
+            "isReply": false
+        }
+    },
+    {
+        "template": "imagine complaining about {{RANDOM_STATION}} when it literally serves {{YESTERDAY_PASSENGERS}} people daily",
+        "metadata": {
+            "category": "yimby",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": null,
+                "minDays": 2,
+                "hasHub": null,
+                "hasCrowding": false,
+                "hasNoTrains": false,
+                "hasNoPassengers": false
+            },
+            "tone": "sarcastic",
+            "isReply": true
+        }
+    },
+    {
+        "template": "{{NEWEST_STATION}} area should be upzoned to R-8! Mixed use! Abolish parking minimums!",
+        "metadata": {
+            "category": "zoning",
+            "requiredGameState": {
+                "minStations": 2,
+                "minRoutes": 1,
+                "minDays": null,
+                "hasHub": null,
+                "hasCrowding": null,
+                "hasNoTrains": null,
+                "hasNoPassengers": null
+            },
+            "tone": "informative",
+            "isReply": false
+        }
+    },
+    {
+        "template": "{{ROUTE_2}} slower than the lake freezing over. Classic CTA",
+        "metadata": {
+            "category": "complaint",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 2,
+                "minDays": 1,
+                "hasHub": null,
+                "hasCrowding": null,
+                "hasNoTrains": false,
+                "hasNoPassengers": false
+            },
+            "tone": "sarcastic",
+            "isReply": false
+        }
+    },
+    {
+        "template": "the {{ROUTE_2}} is running 90 second headways!! NINETY SECONDS!!!",
+        "metadata": {
+            "category": "technical",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 2,
+                "minDays": 5,
+                "hasHub": true,
+                "hasCrowding": true,
+                "hasNoTrains": false,
+                "hasNoPassengers": false
+            },
+            "tone": "excited",
+            "isReply": false
+        }
+    },
+    {
+        "template": "parking 👏 craters 👏 near 👏 {{BUSIEST_STATION}} 👏 must 👏 go",
+        "metadata": {
+            "category": "humor",
+            "requiredGameState": {
+                "minStations": 4,
+                "minRoutes": 1,
+                "minDays": null,
+                "hasHub": true,
+                "hasCrowding": null,
+                "hasNoTrains": null,
+                "hasNoPassengers": null
+            },
+            "tone": "sarcastic",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@{{CITY}}_Transit WHY did you skip {{RANDOM_STATION}}?? I WAS WAITING 20 MINS",
+        "metadata": {
+            "category": "complaint",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": 1,
+                "minDays": 2,
+                "hasHub": false,
+                "hasCrowding": true,
+                "hasNoTrains": false,
+                "hasNoPassengers": false
+            },
+            "tone": "angry",
+            "isReply": false
+        }
+    },
+    {
+        "template": "{{CITY}} just built {{STATION_COUNT}} stations and forgot to buy trains 💀",
+        "metadata": {
+            "category": "humor",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": 1,
+                "minDays": 1,
+                "hasHub": false,
+                "hasCrowding": false,
+                "hasNoTrains": true,
+                "hasNoPassengers": true
+            },
+            "tone": "sarcastic",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@NIMBYKaren actually {{NEWEST_STATION}} increased property values 23% but go off",
+        "metadata": {
+            "category": "yimby",
+            "requiredGameState": {
+                "minStations": 2,
+                "minRoutes": null,
+                "minDays": 3,
+                "hasHub": null,
+                "hasCrowding": null,
+                "hasNoTrains": null,
+                "hasNoPassengers": null
+            },
+            "tone": "sarcastic",
+            "isReply": true
+        }
+    },
+    {
+        "template": "spotted R179s on the {{ROUTE_1}}!! They're running CBTC at 65mph between {{RANDOM_STATION}} and {{BUSIEST_STATION}} 🚇📸",
+        "metadata": {
+            "category": "railfan",
+            "requiredGameState": {
+                "minStations": 10,
+                "minRoutes": 3,
+                "minDays": null,
+                "hasHub": true
+            },
+            "tone": "nerdy",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@{{CITY}}Planning the {{NEWEST_STATION}} shadows will DESTROY our community garden!!!",
+        "metadata": {
+            "category": "nimby",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 2,
+                "minDays": 15
+            },
+            "tone": "angry",
+            "isReply": true
+        }
+    },
+    {
+        "template": "@NIMBYKaren actually {{NEWEST_STATION}} increased property values 23% but go off",
+        "metadata": {
+            "category": "yimby",
+            "requiredGameState": {
+                "minStations": 5,
+                "minRoutes": 2,
+                "minDays": 30
+            },
+            "tone": "sarcastic",
+            "isReply": true
+        }
+    },
+    {
+        "template": "{{NEWEST_STATION}} area should be upzoned to R-8! Mixed use! Abolish parking minimums!",
+        "metadata": {
+            "category": "zoning",
+            "requiredGameState": {
+                "minStations": 7,
+                "minRoutes": 3,
+                "minDays": 45
+            },
+            "tone": "supportive",
+            "isReply": false
+        }
+    },
+    {
+        "template": "{{ROUTE_1}} delayed bc of signal problems. Death, taxes, and signal problems",
+        "metadata": {
+            "category": "complaint",
+            "requiredGameState": {
+                "minStations": 10,
+                "minRoutes": 3,
+                "minDays": 20
+            },
+            "tone": "frustrated",
+            "isReply": false
+        }
+    },
+    {
+        "template": "{{ROUTE_1}} hit 78mph between {{RANDOM_STATION}} and {{BUSIEST_STATION}}!!! New record!",
+        "metadata": {
+            "category": "technical",
+            "requiredGameState": {
+                "minStations": 15,
+                "minRoutes": 4,
+                "minDays": 60
+            },
+            "tone": "excited",
+            "isReply": false
+        }
+    },
+    {
+        "template": "{{CITY}} just built {{STATION_COUNT}} stations and forgot to buy trains 💀",
+        "metadata": {
+            "category": "humor",
+            "requiredGameState": {
+                "hasNoTrains": true,
+                "minStations": 5
+            },
+            "tone": "sarcastic",
+            "isReply": false
+        }
+    },
+    {
+        "template": "just one more lane bro, i promise bro, just one more lane will fix traffic bro",
+        "metadata": {
+            "category": "humor",
+            "requiredGameState": {
+                "minStations": 3,
+                "minRoutes": 1
+            },
+            "tone": "sarcastic",
+            "isReply": false
+        }
+    },
+    {
+        "template": "@{{CITY}}_Transit WHY did you skip {{RANDOM_STATION}}?? I WAS WAITING 20 MINS",
+        "metadata": {
+            "category": "commuter",
+            "requiredGameState": {
+                "hasCrowding": true,
+                "minStations": 5,
+                "minRoutes": 2
+            },
+            "tone": "angry",
+            "isReply": true
+        }
+    },
+    {
+        "template": "{{BUSIEST_STATION}} has 47 second dwell times, unacceptable! Should be 35 max",
+        "metadata": {
+            "category": "technical",
+            "requiredGameState": {
+                "minStations": 10,
+                "hasHub": true
+            },
+            "tone": "nerdy",
+            "isReply": false
+        }
+    }
+]
